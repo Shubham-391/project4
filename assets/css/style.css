@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    list-style-type: none;
+}
+
+header {
+    height: 1007px;
+    flex-shrink: 0;
+    background-color: #1E71FF;
+}
+
+.hcontainer {
+    max-width: 1160px;
+
+}
+
+.chatapp {
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 116.016%;
+    letter-spacing: -0.52px;
+    padding-top: 35px;
+    margin-left: 141px;
+    width: 110px;
+}
+.d-flex{
+    display: flex;
+}
